@@ -1,0 +1,10 @@
+C:\Users\firat\Desktop\workapp\Labirent_WFA\Labirent_WFA\bin\Debug\Labirent_WFA.exe.config
+C:\Users\firat\Desktop\workapp\Labirent_WFA\Labirent_WFA\bin\Debug\Labirent_WFA.exe
+C:\Users\firat\Desktop\workapp\Labirent_WFA\Labirent_WFA\bin\Debug\Labirent_WFA.pdb
+C:\Users\firat\Desktop\workapp\Labirent_WFA\Labirent_WFA\obj\Debug\Labirent_WFA.csproj.AssemblyReference.cache
+C:\Users\firat\Desktop\workapp\Labirent_WFA\Labirent_WFA\obj\Debug\Labirent_WFA.Form1.resources
+C:\Users\firat\Desktop\workapp\Labirent_WFA\Labirent_WFA\obj\Debug\Labirent_WFA.Properties.Resources.resources
+C:\Users\firat\Desktop\workapp\Labirent_WFA\Labirent_WFA\obj\Debug\Labirent_WFA.csproj.GenerateResource.cache
+C:\Users\firat\Desktop\workapp\Labirent_WFA\Labirent_WFA\obj\Debug\Labirent_WFA.csproj.CoreCompileInputs.cache
+C:\Users\firat\Desktop\workapp\Labirent_WFA\Labirent_WFA\obj\Debug\Labirent_WFA.exe
+C:\Users\firat\Desktop\workapp\Labirent_WFA\Labirent_WFA\obj\Debug\Labirent_WFA.pdb
